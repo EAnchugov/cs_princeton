@@ -1,4 +1,4 @@
-package week_3_arrays;
+package week_3_arrays.lecture;
 
 public class PrimeSieve {
     public static void main(String[] args) {
