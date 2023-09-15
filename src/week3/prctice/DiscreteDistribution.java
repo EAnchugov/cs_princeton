@@ -11,7 +11,6 @@ public class DiscreteDistribution {
         for (int m = 1; m < args.length; m++) {
             a[m-1] = Integer.parseInt(args[m]);
         }
-
         for (int t = 0; t < i; t++) {
             int r = (int) (Math.random() * a.length);
             System.out.print(r + 1 + "  ");
